@@ -19,7 +19,7 @@
 	   <property name="driverClass" value="com.mysql.jdbc.Driver" />
 	   <property name="jdbcUrl" value="jdbc:mysql://127.0.0.1/formsdb" />
 	   <property name="username" value="root"/>
-	   <property name="password" value="defg10500"/>
+	   <property name="password" value="********"/>
 	   <property name="maxConnectionsPerPartition" value="30"/>
 	   <property name="minConnectionsPerPartition" value="10"/>
 	   <property name="partitionCount" value="3"/>
